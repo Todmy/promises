@@ -1,0 +1,12 @@
+{
+  "name": "promeses and $q",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "underscore": "1.8.*",
+    "bootstrap": "~3.0.0",
+    "jquery": "~2.0.3"
+  }
+}
